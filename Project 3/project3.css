@@ -1,0 +1,35 @@
+
+body{
+    background-color: rgb(66, 65, 65);
+}
+h4 {
+    color:ghostwhite;
+}
+h1{
+    color: ghostwhite;
+}
+h5 {
+    color:ghostwhite;
+}
+.Body{
+    line-height: 50px ;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    background-image: url("Night-sky-photography.jpg");
+    background-color: dimgray;
+    background-size: 100% 100%;
+    padding-top:50px ;
+    padding-bottom: 400px;
+    font-size: larger;
+    
+}
+.Nav p{
+     display: inline;
+     margin:auto;
+     width: 250px;
+
+    }
+.Nav{
+    margin:auto;
+    width:200px;
+}
