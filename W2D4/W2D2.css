@@ -1,0 +1,25 @@
+
+
+.Page{
+    font-family: 'Josefin Sans', sans-serif;
+    text-align:center;
+    border: 2px solid black;
+    width:300px;
+    margin:150px auto;
+}
+.ContactMe{
+    padding:10px;
+}
+.First{
+    padding:10px;
+}
+.Last{
+    padding:10px;
+
+}
+.Email{
+    padding:10px;
+}
+.Submit{
+    padding:10px;
+}
