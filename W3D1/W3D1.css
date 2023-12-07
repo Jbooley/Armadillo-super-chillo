@@ -1,0 +1,104 @@
+body {
+    background-color: rgb(239, 239, 184);
+    
+}
+#nav {
+    Width:100%;
+    background-color: rgb(213, 165, 9);
+    height:50px;
+    position:fixed;
+    top:0;
+    z-index: 2;
+}
+#leftSide {
+    float:left;
+    position:relative;
+    color:white;
+    left: 10px;
+}
+#rightSide{
+    float:right;
+    position:relative;
+    color:white;
+    top:15px;
+    right:10px;
+}
+#contbox {
+    border-style: solid;
+    border-color: goldenrod;
+    
+    
+}
+#dash{
+    position:absolute;
+    width:300px;
+    height:auto;
+    padding: 5px 5px 0 5px;
+    margin:auto;
+    background-color: white;
+    float:left;
+    margin-right: 10px;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 5%;
+    top: 25%;
+    left:3%;
+}
+#budget{
+    position:absolute;
+    width:300px;
+    height:auto;
+    padding: 5px 5px 0 5px;
+    margin:auto;
+    background-color: white;
+    float:left;
+    margin-right:10px;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 5%;
+    top: 25%;
+    left: 27%
+}
+#checkbooks{
+    position: absolute;
+    width:300px;
+    height:auto;
+    padding: 5px 5px 0 5px;
+    margin:auto;
+    background-color: white;
+    float:left;
+    margin-right:10px;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 5%;
+    top:25%;
+    left:50%
+}
+#money{
+    position: absolute;
+    width:300px;
+    height:auto;
+    padding: 5px 5px 0 5px;
+    margin:auto;
+    background-color: white;
+    float:left;
+    margin-right:10px;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 5%;
+    top:25%; 
+    left:75%
+}
+#moreInfo{
+    margin:auto;
+    width:100px;
+    text-align: center;
+    background-color: goldenrod;
+    color:white;
+    border-radius: 25px;
+    
+
+}
+#title {
+    text-align: center;
+}
